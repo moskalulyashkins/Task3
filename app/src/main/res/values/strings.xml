@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 3</string>
+    <string name="bill_label">Сумма счёта:</string>
+    <string name="bill_hint">Введите сумму</string>
+    <string name="tip_label">Процент чаевых:</string>
+    <string name="tip_default_percent">15%</string>
+    <string name="people_hint">Количество человек</string>
+    <string name="tip_result_default">Чаевые: 0₽</string>
+    <string name="total_result_default">Итого: 0₽</string>
+    <string name="per_person_result_default">На человека: 0₽</string>
+</resources>
